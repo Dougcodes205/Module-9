@@ -1,26 +1,42 @@
 # Module-9
-# <Your-Project-Title>
 
 ## Description
+A readme generator to avoid the repetitiveness of creating readme
 
-The README Generator is a command-line application that allows developers to quickly create professional README files for their new projects. The motivation behind building this project was to streamline the process of creating README files and ensure that developers can focus more on coding and less on writing documentation. This tool solves the problem of manually crafting README files, which can be time-consuming and repetitive.
+## Table of Contents
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#license)
+- [Contributing](#contributing)
+- [Tests](#tests)
+- [Questions](#questions)
 
-With this generator, developers can simply answer a set of questions about their project, and a high-quality, well-structured README.md file will be automatically generated. By using this tool, developers can ensure that their projects have clear and informative documentation, making it easier for others to understand and contribute to their work.
+## Installation
+To install the necessary dependencies, run the following command:
 
-## Table of Contents 
-
-Usage
-Credits
-License
+```
+npm install
+```
 
 ## Usage
-
-Once the README Generator is running, you will be prompted to answer a series of questions about your project, including your GitHub username, email address, project title, description, license, installation steps, and usage instructions. The generator will then generate a detailed README.md file based on your responses.
-
-## Credits
-
-Dougcodes205
+must have node installed
 
 ## License
+This project is not licensed.
 
+## Contributing
 N/A
+
+## Tests
+To run tests, use the following command:
+
+```
+npm test
+```
+
+## Questions
+- GitHub: [Dougcodes205](https://github.com/Dougcodes205)
+- Email: tannercollege6@gmail.com
+
+## Links
+https://drive.google.com/file/d/1VIorIgXxoWrEf5lsD338nexbqXCKoRHm/view
